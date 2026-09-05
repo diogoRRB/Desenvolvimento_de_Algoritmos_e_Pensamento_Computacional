@@ -1,4 +1,4 @@
-# Calculadora Completa em C
+# Calculadora em C
 
 **Estudante:** Diogo Ribeiro Rodrigues Braúna  
 **Disciplina:** Desenvolvimento de Algoritmos e Pensamento Computacional  
