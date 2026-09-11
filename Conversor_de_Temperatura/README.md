@@ -11,7 +11,7 @@ Este projeto consiste em um programa em linguagem C desenvolvido para realizar a
 
 ---
 
-## ⚙️ Funcionalidades Implementadas
+##  Funcionalidades Implementadas
 
 1. **Celsius para Fahrenheit:** $F = (C \times 1.8) + 32$
 2. **Fahrenheit para Celsius:** $C = \frac{F - 32}{1.8}$
