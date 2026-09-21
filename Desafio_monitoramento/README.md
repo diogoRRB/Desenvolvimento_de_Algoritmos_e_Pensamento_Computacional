@@ -1,15 +1,17 @@
 Sistema de Monitoramento de Temperatura em C
 
 Estudante: Diogo Ribeiro Rodrigues Braúna
+
 Disciplina: Desenvolvimento de Algoritmos e Pensamento Computacional
+
 Professora: Profa. Karla Sartin
+
 Linguagem: C
 
 ## Descrição do Projeto
 
 Este projeto consiste em um programa em linguagem C desenvolvido para monitorar a temperatura de operação de máquinas de forma contínua.
-O sistema valida limites de segurança, recebe múltiplas leituras do sensor, trata entradas inválidas (incluindo misturas de números e letras),
-calcula estatísticas completas e protege a maquina encerrando a execução automaticamente caso sejam identificadas três leituras consecutivas acima do limite seguro.
+O sistema valida limites de segurança, recebe múltiplas leituras do sensor, trata entradas inválidas (incluindo misturas de números e letras), calcula estatísticas completas e protege a maquina encerrando a execução automaticamente caso sejam identificadas três leituras consecutivas acima do limite seguro.
 
 ## Funcionalidades Implementadas
 
